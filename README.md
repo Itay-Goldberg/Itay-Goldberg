@@ -17,6 +17,9 @@
  
 
 <h2>👨‍💻 Digital Signal Processing Projects:</h2>
+  - [Assignment submitted at DSP course (DSP_course)](https://github.com/Itay-Goldberg/DSP_course)
+  - [Assignment submitted at SSP course (SSP_course)](https://github.com/Itay-Goldberg/SSP_course)
+
 
 <h2> 📫 Connect with me:</h2>
 
